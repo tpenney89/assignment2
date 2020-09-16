@@ -1,3 +1,5 @@
+package tpenney;
+
 import java.awt.Color;
 
 public class TwoToneExterior implements ColorScheme {

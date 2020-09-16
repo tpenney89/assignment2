@@ -1,3 +1,5 @@
-public interface AxelType {
+package tpenney;
+
+public interface TrailerType {
     int getAxels();
 }

@@ -1,7 +1,11 @@
+package tpenney;
+
+
 import java.awt.Color;
 
-public interface Color {
+public interface ColorScheme {
 
-    java.awt.Color getColor();
+    public Color getPrimaryColor();
 
+     public Color getSecondaryColor() ;
 }
