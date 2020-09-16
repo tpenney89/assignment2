@@ -9,10 +9,7 @@ import static junit.framework.TestCase.fail;
 
 public class CamperTest {
 
-    @Test
-    public void testNegative() {
-        fail("broken");
-    }
+
 
     @Test
     public void testConstructions() {
