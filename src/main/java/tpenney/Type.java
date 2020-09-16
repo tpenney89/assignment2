@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public enum Type {
+/*
+ *Selectable trailer types for the camper
+ */
+
+public enum Type {
+    TravelTrailer, FifthWheel, MotorHome, PopUp;
 }
